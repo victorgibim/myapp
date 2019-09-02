@@ -29,6 +29,7 @@ dependencies:
   transparent_image: ^1.0.0
   scoped_model: ^1.0.1
   http: ^0.12.0+2
+  audioplayers: ^0.13.1
  
 dev_dependencies:
   flutter_test:
@@ -43,6 +44,13 @@ flutter:
     uses-material-design: true
     assets:
       - assets/pics/goku.jpg
+      - assets/images/a1.png
+      - assets/audios/canario_belga_campainha_original.ogg
+      - assets/audios/canario_belga_campainha.ogg
+      - assets/audios/canario_belga_chamado_femea.ogg
+      - assets/audios/canario_belga_roller.ogg
+      - assets/audios/canario_belga_salsa.ogg
+      - assets/audios/canario_belga_timbrado.ogg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
